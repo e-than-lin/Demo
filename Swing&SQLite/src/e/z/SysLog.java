@@ -1,7 +1,7 @@
 package e.z;
 public class SysLog {
 	public void log() {
-		System.out.println("运行class文件的方法！");
+		System.out.println("杩愯class鏂囦欢鐨勬柟娉曪紒  ");
 	}
 
 }
